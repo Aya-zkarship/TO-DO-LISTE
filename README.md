@@ -21,3 +21,4 @@ A simple and cute to-do list web app built with HTML, CSS, and JavaScript.
 
 Made with 💖 by Aya Zkara  
 📧 zkaraaya1@gmail.com
+![To-Do List Screenshot](screenshot.png)
