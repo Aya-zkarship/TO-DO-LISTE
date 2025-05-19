@@ -5,7 +5,6 @@ A simple and cute to-do list web app built with HTML, CSS, and JavaScript.
 ## ✨ Features
 
 - Add new tasks
-- Set a due date
 - Mark tasks as complete with checkboxes
 - Delete tasks
 - Save tasks in browser (localStorage)
